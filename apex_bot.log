@@ -1,0 +1,170 @@
+2026-04-02 01:10:51,202 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 01:10:52,359 | INFO    |    1m ✓   1500 candles  2026-03-31 → 2026-04-01
+2026-04-02 01:10:52,921 | INFO    |    5m ✓   1000 candles  2026-03-29 → 2026-04-01
+2026-04-02 01:10:53,267 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-01
+2026-04-02 01:10:53,600 | INFO    |    4h ✓    200 candles  2026-02-27 → 2026-04-01
+2026-04-02 01:10:53,920 | INFO    |   Funding ✓  200 records
+2026-04-02 01:10:54,033 | INFO    |   Loaded saved RF model
+2026-04-02 01:10:54,136 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 01:10:54,212 | INFO    |   Loaded saved LSTM model
+2026-04-02 01:10:54,267 | INFO    |   Bot fully initialized ✓
+2026-04-02 01:19:46,179 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 01:19:47,278 | INFO    |    1m ✓   1500 candles  2026-03-31 → 2026-04-01
+2026-04-02 01:19:47,625 | INFO    |    5m ✓   1000 candles  2026-03-29 → 2026-04-01
+2026-04-02 01:19:47,966 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-01
+2026-04-02 01:19:48,287 | INFO    |    4h ✓    200 candles  2026-02-27 → 2026-04-01
+2026-04-02 01:19:48,607 | INFO    |   Funding ✓  200 records
+2026-04-02 01:19:48,716 | INFO    |   Loaded saved RF model
+2026-04-02 01:19:48,832 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 01:19:48,917 | INFO    |   Loaded saved LSTM model
+2026-04-02 01:19:48,978 | INFO    |   Bot fully initialized ✓
+2026-04-02 03:41:27,175 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 03:41:28,429 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 03:41:28,844 | INFO    |    5m ✓   1000 candles  2026-03-29 → 2026-04-02
+2026-04-02 03:41:29,449 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 03:41:29,820 | INFO    |    4h ✓    200 candles  2026-02-27 → 2026-04-02
+2026-04-02 03:41:30,175 | INFO    |   Funding ✓  200 records
+2026-04-02 03:41:30,447 | INFO    |   Loaded saved RF model
+2026-04-02 03:41:30,791 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 03:41:30,978 | INFO    |   Loaded saved LSTM model
+2026-04-02 03:41:31,123 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:13:54,402 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:13:55,849 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:13:56,477 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:13:56,892 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:13:57,327 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:13:57,696 | INFO    |   Funding ✓  200 records
+2026-04-02 15:13:57,992 | INFO    |   Loaded saved RF model
+2026-04-02 15:13:58,260 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:13:58,421 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:13:58,539 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:20:26,934 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:20:27,946 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:20:28,306 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:20:28,649 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:20:28,993 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:20:29,311 | INFO    |   Funding ✓  200 records
+2026-04-02 15:20:29,479 | INFO    |   Loaded saved RF model
+2026-04-02 15:20:29,660 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:20:29,808 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:20:29,964 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:24:33,164 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:24:34,176 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:24:34,548 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:24:34,902 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:24:35,224 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:24:35,539 | INFO    |   Funding ✓  200 records
+2026-04-02 15:24:35,652 | INFO    |   Loaded saved RF model
+2026-04-02 15:24:35,775 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:24:35,875 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:24:35,934 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:31:06,522 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:31:10,810 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:31:11,514 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:31:12,446 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:31:12,890 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:31:13,270 | INFO    |   Funding ✓  200 records
+2026-04-02 15:31:13,394 | INFO    |   Loaded saved RF model
+2026-04-02 15:31:13,508 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:31:13,593 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:31:13,656 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:36:25,838 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:36:26,841 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:36:28,130 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:36:28,570 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:36:28,948 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:36:29,311 | INFO    |   Funding ✓  200 records
+2026-04-02 15:36:29,425 | INFO    |   Loaded saved RF model
+2026-04-02 15:36:29,541 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:36:29,617 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:36:29,675 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:46:23,755 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:46:24,837 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:46:25,235 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:46:25,593 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:46:25,919 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:46:26,252 | INFO    |   Funding ✓  200 records
+2026-04-02 15:46:26,378 | INFO    |   Loaded saved RF model
+2026-04-02 15:46:26,528 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:46:26,615 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:46:26,674 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:50:01,991 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:50:03,150 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:50:03,540 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:50:03,889 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:50:04,209 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:50:04,525 | INFO    |   Funding ✓  200 records
+2026-04-02 15:50:04,663 | INFO    |   Loaded saved RF model
+2026-04-02 15:50:04,821 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:50:04,931 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:50:05,011 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:51:23,694 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:51:24,834 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:51:25,223 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:51:25,606 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:51:25,959 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:51:26,275 | INFO    |   Funding ✓  200 records
+2026-04-02 15:51:26,438 | INFO    |   Loaded saved RF model
+2026-04-02 15:51:26,585 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:51:26,696 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:51:26,761 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:53:09,372 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:53:10,365 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:53:10,725 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:53:11,053 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:53:11,369 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:53:11,684 | INFO    |   Funding ✓  200 records
+2026-04-02 15:53:11,792 | INFO    |   Loaded saved RF model
+2026-04-02 15:53:11,904 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:53:11,986 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:53:12,042 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:55:10,020 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:55:11,888 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:55:12,233 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:55:12,564 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:55:14,628 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:55:14,931 | INFO    |   Funding ✓  200 records
+2026-04-02 15:55:15,056 | INFO    |   Loaded saved RF model
+2026-04-02 15:55:15,195 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:55:15,280 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:55:15,338 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:56:17,743 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:56:20,911 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:56:22,349 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:56:23,160 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:56:24,001 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:56:24,895 | INFO    |   Funding ✓  200 records
+2026-04-02 15:56:25,005 | INFO    |   Loaded saved RF model
+2026-04-02 15:56:25,113 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:56:25,184 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:56:25,242 | INFO    |   Bot fully initialized ✓
+2026-04-02 15:58:26,630 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 15:58:29,579 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 15:58:30,946 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 15:58:31,774 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 15:58:32,569 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 15:58:33,347 | INFO    |   Funding ✓  200 records
+2026-04-02 15:58:33,455 | INFO    |   Loaded saved RF model
+2026-04-02 15:58:33,562 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 15:58:33,641 | INFO    |   Loaded saved LSTM model
+2026-04-02 15:58:33,697 | INFO    |   Bot fully initialized ✓
+2026-04-02 18:51:58,608 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 18:51:59,595 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 18:51:59,942 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 18:52:00,281 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 18:52:00,598 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 18:52:00,909 | INFO    |   Funding ✓  200 records
+2026-04-02 18:52:01,015 | INFO    |   Loaded saved RF model
+2026-04-02 18:52:01,128 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 18:52:01,212 | INFO    |   Loaded saved LSTM model
+2026-04-02 18:52:01,273 | INFO    |   Bot fully initialized ✓
+2026-04-02 18:55:50,128 | INFO    | ▶ Connecting to Binance Futures…
+2026-04-02 18:55:51,280 | INFO    |    1m ✓   1500 candles  2026-04-01 → 2026-04-02
+2026-04-02 18:55:51,636 | INFO    |    5m ✓   1000 candles  2026-03-30 → 2026-04-02
+2026-04-02 18:55:52,000 | INFO    |    1h ✓    500 candles  2026-03-12 → 2026-04-02
+2026-04-02 18:55:52,356 | INFO    |    4h ✓    200 candles  2026-02-28 → 2026-04-02
+2026-04-02 18:55:52,688 | INFO    |   Funding ✓  200 records
+2026-04-02 18:55:52,805 | INFO    |   Loaded saved RF model
+2026-04-02 18:55:52,919 | WARNING | TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-02 18:55:53,002 | INFO    |   Loaded saved LSTM model
+2026-04-02 18:55:53,061 | INFO    |   Bot fully initialized ✓
