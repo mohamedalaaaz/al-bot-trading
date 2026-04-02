@@ -49,8 +49,21 @@ Girsanov
 Malliavin proxy
 Lyapunov
 Entropy
+'
+
+
+
+
+
+
+
+
 
 Module	Level
+
+
+
+
 Linear Algebra (PCA, SVD, Mahalanobis)	
 Very strongStochastic Calculus (Itô, GBM)	 Institutional
 GARCH + Kalman	 Real quant tools
