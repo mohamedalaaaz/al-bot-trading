@@ -1,0 +1,39 @@
+{
+  "alpha": {
+    "cvd": 4.0,
+    "ou": 3.5,
+    "kalman": 3.0,
+    "wyckoff": 3.5,
+    "vwap": 3.0,
+    "sweep": 4.0,
+    "funding": 3.0,
+    "trap": 3.0,
+    "tick": 2.5,
+    "default": 2.0
+  },
+  "beta": {
+    "cvd": 2.5,
+    "ou": 2.0,
+    "kalman": 2.0,
+    "wyckoff": 2.0,
+    "vwap": 2.0,
+    "sweep": 2.0,
+    "funding": 2.0,
+    "trap": 2.0,
+    "tick": 2.0,
+    "default": 2.0
+  },
+  "n": {
+    "cvd": 0,
+    "tick": 0,
+    "funding": 0,
+    "wyckoff": 0,
+    "default": 0,
+    "vwap": 0,
+    "trap": 0,
+    "ou": 0,
+    "sweep": 0,
+    "kalman": 0
+  },
+  "sprt_n": 0
+}
